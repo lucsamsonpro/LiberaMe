@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/LiberaMe_level.umap",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/lucsa/Merge_37ED1AC8.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/TWG/BP_TWG_PlayableCharacter.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/lucsa/Box_840C9CA5.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Merge_5C557754.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_1E093874.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_BC27D4CA.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_B8DFAA06.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_C434E711.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_9D14C681.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_C393E670.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_0C4EB247.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Extrude_A819454E.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Merge_6500DBBF.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Boolean_AB707FFF.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Boolean_EA862254.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/LiberaMe/TWG-GASP-ALS/Content/MonContenu/_GENERATED/iut2023/Boolean_1445B52E.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/TWG-GASP-ALS/Content/TWG/TWG_TODO.uasset",
+				"C:/Users/iut2023/Desktop/LS_UnrealProjects/TWG-GASP-ALS/Content/MonContenu/LiberaMe_level.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TWG_GASPALS",
+			"Path": "..\\Source\\TWG_GASPALS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TWG_GASPALSEditor",
+			"Path": "..\\Source\\TWG_GASPALSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

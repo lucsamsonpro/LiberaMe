@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\iut2023\\Desktop\\LS_UnrealProjects\\TWG-GASP-ALS\\Source\\TWG_GASPALS\\TWG_GASPALS.Build.cs",
+		"C:\\Users\\iut2023\\Desktop\\LS_UnrealProjects\\TWG-GASP-ALS\\Source\\TWG_GASPALS.Target.cs",
+		"C:\\Users\\iut2023\\Desktop\\LS_UnrealProjects\\TWG-GASP-ALS\\Source\\TWG_GASPALSEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
